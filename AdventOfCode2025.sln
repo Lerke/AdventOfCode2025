@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day01.SecretEntrance", "Day01.SecretEntrance\Day01.SecretEntrance.csproj", "{62FDE7FB-5E8D-4C61-BAD7-6EB99F2AAA43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day02.GiftShop", "Day02.GiftShop\Day02.GiftShop.csproj", "{4A9B48EF-39CE-4279-8BC6-B6AC951B8606}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{62FDE7FB-5E8D-4C61-BAD7-6EB99F2AAA43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62FDE7FB-5E8D-4C61-BAD7-6EB99F2AAA43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62FDE7FB-5E8D-4C61-BAD7-6EB99F2AAA43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A9B48EF-39CE-4279-8BC6-B6AC951B8606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9B48EF-39CE-4279-8BC6-B6AC951B8606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9B48EF-39CE-4279-8BC6-B6AC951B8606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9B48EF-39CE-4279-8BC6-B6AC951B8606}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
